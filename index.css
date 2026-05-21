@@ -72,7 +72,7 @@ table {
 
 table tr {
     border-bottom: 1px solid hsla(30, 10%, 34%, 0.2);
-    text-align: start;
+    text-align: inline-start;
     line-height: 3rem;
 }
 
