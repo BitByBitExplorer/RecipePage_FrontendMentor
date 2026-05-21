@@ -56,7 +56,7 @@ aside {
     border-radius: 10px;
 }
 
-#aside_title {
+.aside_title {
     color: hsl(332, 51%, 32%);
     font-weight: 700;
 }
@@ -85,7 +85,7 @@ li {
     padding-left: 0.5rem;
 }
 
-#table_caption {
+.table_caption {
     margin: 1rem 0;
 }
 
@@ -116,7 +116,7 @@ hr {
     color: hsl(228, 45%, 44%); 
 }
 
-@media screen and (min-width: 560px){
+@media screen and (min-width: 35rem){
 body {
     background: hsl(30, 54%, 90%);
 }
